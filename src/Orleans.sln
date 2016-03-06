@@ -188,6 +188,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInterfaces", "TestInter
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestFSharpInterfaces", "TestFSharpInterfaces\TestFSharpInterfaces.fsproj", "{2375D7D5-9B30-493F-9C2E-A6B2811A3C5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FailingSiloHost", "FailingSiloHost\FailingSiloHost.csproj", "{9B6CBFF1-AB93-4233-A7DD-11FD40A4933F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -314,6 +316,10 @@ Global
 		{2375D7D5-9B30-493F-9C2E-A6B2811A3C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2375D7D5-9B30-493F-9C2E-A6B2811A3C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2375D7D5-9B30-493F-9C2E-A6B2811A3C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6CBFF1-AB93-4233-A7DD-11FD40A4933F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6CBFF1-AB93-4233-A7DD-11FD40A4933F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6CBFF1-AB93-4233-A7DD-11FD40A4933F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6CBFF1-AB93-4233-A7DD-11FD40A4933F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
